@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.artp.svaapp.\
+    config.SqlTestContainersSpringContextCustomizerFactory
